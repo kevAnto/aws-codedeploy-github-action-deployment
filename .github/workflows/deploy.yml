@@ -1,6 +1,6 @@
 name: Build and Deploy
 
-on:
+on: push
   #workflow_dispatch: {}
 
 env:
